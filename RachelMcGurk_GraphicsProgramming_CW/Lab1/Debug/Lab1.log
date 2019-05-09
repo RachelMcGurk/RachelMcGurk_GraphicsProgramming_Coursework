@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainGame.cpp
+c:\users\user\desktop\rachelmcgurk_graphicsprogramming_cw\lab1\maingame.cpp(181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lab1.vcxproj -> C:\Users\User\Desktop\RachelMcGurk_GraphicsProgramming_CW\Debug\RachelMcGurk_GraphicsProgramming_CW.exe
